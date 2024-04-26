@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;PrivateAS&apos; to &apos;ProtectedAS&apos;&#x0D;&#x0A;- Original element: &apos;PrivateAS&apos;&#x0D;&#x0A;- Renamed element: &apos;PrivateAS&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;PrivateAS&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=PrivateAS" name="ProtectedAS" references="true" stamp="1703763109007" version="1.0"/>
+</session>
